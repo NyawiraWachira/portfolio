@@ -17,7 +17,6 @@
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
@@ -60,16 +59,16 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left"></h2>
 
-<p align="right"><b>2023</b></p>
+<p align="right"><b></b></p>
 
 <p>
 
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  .
+  
 </p>
 <br/>
 
@@ -125,7 +124,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+
 
 <!-- END -->
 
